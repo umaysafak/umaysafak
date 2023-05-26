@@ -5,6 +5,6 @@
 
 <br />
 
-### Solidity | JavaScript | Python
+## Solidity | JavaScript | Python
 
 <br />
