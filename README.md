@@ -1,1 +1,1 @@
-<img src="https://giphy.com/embed/S3PBXqHjKL9GZhK2Yv" align="left" width="400" height="250">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/S3PBXqHjKL9GZhK2Yv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/baby-yoda-grogu-cute-S3PBXqHjKL9GZhK2Yv">via GIPHY</a></p>
