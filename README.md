@@ -4,3 +4,7 @@
 ## Blochchain Developer. Solidity Lover...
 
 <br />
+
+### Solidity | JavaScript | Python
+
+<br />
