@@ -10,4 +10,4 @@
 <br />
 
 [<img  width="45" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" align="left" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/bugrahan-umay-safak/
+[linkedin]: https://www.linkedin.com/in/alperensafak/
