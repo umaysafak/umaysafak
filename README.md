@@ -9,4 +9,5 @@
 
 <br />
 
-[linkedin]: https://[www.linkedin.com/in/alperensafak](https://www.linkedin.com/in/bugrahan-umay-safak-b9a280228/)/
+[<img  width="45" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" align="left" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/alperensafak](https://www.linkedin.com/in/bugrahan-umay-safak-b9a280228/
