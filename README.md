@@ -8,3 +8,5 @@
 ### Solidity | JavaScript | Python
 
 <br />
+
+[linkedin]: https://[www.linkedin.com/in/alperensafak](https://www.linkedin.com/in/bugrahan-umay-safak-b9a280228/)/
