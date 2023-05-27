@@ -4,7 +4,7 @@
 
 <br />
 
-## <a> Blochchain Developer. Solidity Lover... </a>
-### <a> Solidity | JavaScript | Python </a>
+## <p2> Blochchain Developer. Solidity Lover... </p2>
+### <p3> Solidity | JavaScript | Python </p3>
 
 <br />
